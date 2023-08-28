@@ -1,5 +1,5 @@
 # Project title: Black Friday Sell Prediction
-Table of Contents
+# Table of Contents
 Introduction
 Dataset
 Objective
