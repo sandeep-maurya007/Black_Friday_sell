@@ -20,7 +20,7 @@ The dataset used for this project can be found at link-to-dataset. It contains i
 The main objective of this project is to build a predictive model that can accurately forecast the sales of products during the Black Friday sale. This involves exploring the dataset, preprocessing the data, selecting appropriate features, training machine learning models, and evaluating their performance.
 
 # Approach
--Data Preprocessing: Clean and preprocess the dataset. Handle missing values, encode categorical variables, and perform feature scaling if necessary.
+- Data Preprocessing: Clean and preprocess the dataset. Handle missing values, encode categorical variables, and perform feature scaling if necessary.
 
 - Exploratory Data Analysis (EDA): Explore the dataset to gain insights into the distribution of various attributes, identify patterns, and relationships that might impact sales.
 
