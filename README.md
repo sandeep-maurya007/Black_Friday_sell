@@ -1,15 +1,16 @@
 # Project title: Black Friday Sell Prediction
 # Table of Contents
--Introduction
--Dataset
--Objective
--Approach
--Dependencies
--Usage
--Results
--Future Enhancements
--Contributing
-#Introduction
+- Introduction
+- Dataset
+- Objective
+- Approach
+- Dependencies
+- Usage
+- Results
+- Future Enhancements
+- Contributing
+
+# Introduction
 Welcome to the Black Friday Sales Prediction Project! This project aims to predict the sales amount for various products during the Black Friday sale based on historical data. Predicting sales can provide valuable insights for businesses to plan their inventory, marketing strategies, and optimize their sales during such events.
 
 #Dataset
